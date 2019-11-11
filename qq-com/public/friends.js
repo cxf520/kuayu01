@@ -1,0 +1,3 @@
+window['{{xxx}}'](
+  {{ data }}
+)
